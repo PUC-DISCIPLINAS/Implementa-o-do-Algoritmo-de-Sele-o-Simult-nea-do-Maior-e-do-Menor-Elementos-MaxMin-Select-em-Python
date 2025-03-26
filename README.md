@@ -124,13 +124,7 @@ O algoritmo **MaxMin Select** apresenta um desempenho eficiente para encontrar o
 
 ### Ponto Extra: Diagrama da Recursão
 
-Adicionei um diagrama visual (disponível na pasta `assets/`) que representa como o algoritmo divide o array em subproblemas e combina os resultados.
+![MineMax](https://github.com/user-attachments/assets/c5f482cf-ae53-4701-af57-262a5f85fda8)
 
 
-
----
-
-## Entrega
-
-O projeto foi hospedado no GitHub. Certifique-se de testar o link antes de enviá-lo no CANVAS.
 
